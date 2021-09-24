@@ -19,6 +19,6 @@
   <a href="https://www.linkedin.com/in/camila-ferrari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	
 	![Snake animation]
-	(https://github.com/milabixcode/milabixcode/blob/main/.github/workflows/cobrinha.yml)
+	(https://github.com/milabixcode/milabixcode/blob/76db6c25012165ca6d3bebe87eedc6cbf42ca76c/.github/workflows/cobrinha.yml)
 	
 </div>

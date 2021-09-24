@@ -18,7 +18,8 @@
    <a href = "mailto:camilaferrariv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camila-ferrari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	
-	![Snake animation]
-	(https://github.com/milabixcode/milabixcode/blob/76db6c25012165ca6d3bebe87eedc6cbf42ca76c/.github/workflows/cobrinha.yml)
 	
+	![Snake animation]
+(https://github.com/milabixcode/milabixcode/blob/output/github-contribution-grid-snake.svg)
+
 </div>

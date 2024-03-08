@@ -12,6 +12,7 @@
   <img align="center" alt="Mila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mila-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<img align="center" alt="Mila-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
   <img align="right" alt="Mila-pic" height="150" style="border-radius:50px;" src="https://s3.amazonaws.com/cn-ppg-api-production/dest/85a128b9-73c5-4b16-a117-ef531825d002/wallpaper.jpg">
 </div>
   
